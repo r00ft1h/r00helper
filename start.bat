@@ -1,1 +1,1 @@
-python "I:\r00helper\package2pypi.py"
+python "I:\r00helper\package2pypi\__init__.py"
