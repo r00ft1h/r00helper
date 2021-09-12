@@ -3,7 +3,7 @@ from os.path import join, dirname
 
 setup(
     name='r00helper',
-    version='0.2',
+    version='0.4',
     license='MIT',
     author="Andrey Ivanov",
     author_email='r00ft1h@gmail.com',
